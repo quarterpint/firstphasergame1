@@ -5,6 +5,7 @@ game_state.prototype ={
     
     preload: function () {
         
+        
     },
     create: function(){
         
